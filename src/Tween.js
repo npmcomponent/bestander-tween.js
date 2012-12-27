@@ -643,3 +643,5 @@ TWEEN.Interpolation = {
 	}
 
 };
+
+module.exports = TWEEN;
