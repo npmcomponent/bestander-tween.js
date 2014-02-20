@@ -1,0 +1,11 @@
+{
+  "name": "bestander-tween.js",
+  "description": "Javascript Tweening Engine",
+  "version": "7.0.0",
+  "keywords": [
+    "tweening"
+  ],
+  "main": "src/Tween.js",
+  "dependencies": {},
+  "license": "MIT"
+}
